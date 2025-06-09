@@ -1,0 +1,22 @@
+Package: libgxde-network-utils-dev
+Architecture: loong64
+Version: 2:1.0.0
+Priority: optional
+Section: libdevel
+Source: gxde-network-utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 44
+Provides: libdde-network-utils-dev
+Depends: libgxde-network-utils
+Conflicts: libdde-network-utils-dev
+Replaces: libdde-network-utils-dev
+Filename: ./l/libgxde-network-utils-dev/libgxde-network-utils-dev_1.0.0_loong64.deb
+Size: 5764
+MD5sum: dee296fa5e387a3ff4ec71dc69f8988a
+SHA1: e880911010272c7f4ab296714439530c65a45b90
+SHA256: 6cfed6ff0908448cc303652ce49ca51206743a40904ba0cbbc4db5a69d32d5c4
+SHA512: 102c0ccecdf35c64bb7991956bd98601d27c3b2bedc98d3d48e92b5a95e499954326c78bc5243125f813d0c24f37b55ec78ff004913485f1015d58b9c0410176
+Homepage: https://gitee.com/GXDE-OS/gxde-network-utils
+Description: GXDE network utils dev
+ GXDE network utils dev.
+

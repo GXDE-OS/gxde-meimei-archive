@@ -1,0 +1,19 @@
+Package: gxde-app-installer
+Architecture: all
+Version: 1.1.2
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 21
+Depends: zenity, garma, bash, sudo, pkexec | polkit-0 | policykit-0, transhell
+Recommends: spark-store | aptss
+Filename: ./g/gxde-app-installer/gxde-app-installer_1.1.2_all.deb
+Size: 3272
+MD5sum: 272ed75d8fd783f1a87fd5d8f9d66b71
+SHA1: 74d84dfd554b6c850fbccaba08c6468abf748153
+SHA256: d6831ef1646dc5fe14079952f1358cdaa0792d8094c915027cfa75bd6b421350
+SHA512: 4a78f11d08714d338921410bf9a54caf125cdb8ba60783d1ce6d746d5bde785c3492466d4da9b8e29957755961945695cc7fa83fdb300d77fe7069765bef3687
+Homepage: https://gitee.com/GXDE-OS/gxde-app-installer
+Description: GXDE app install helper
+

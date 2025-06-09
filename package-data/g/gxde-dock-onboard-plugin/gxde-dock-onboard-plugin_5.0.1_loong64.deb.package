@@ -1,0 +1,22 @@
+Package: gxde-dock-onboard-plugin
+Architecture: loong64
+Version: 5.0.1
+Priority: optional
+Section: x11
+Source: gxde-dock
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 94
+Provides: gxde-dock-onboard-plugin
+Depends: libc6 (>= 2.40), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.5.0), libqt5gui5t64 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5widgets5t64 (>= 5.0.2), libstdc++6 (>= 5), onboard
+Conflicts: gxde-dock-onboard-plugin
+Replaces: gxde-dock-onboard-plugin
+Filename: ./g/gxde-dock-onboard-plugin/gxde-dock-onboard-plugin_5.0.1_loong64.deb
+Size: 21308
+MD5sum: 2b128bdb732ec92dd7af5e4e169edc92
+SHA1: 7a7135d0f8a4b1374682af57c9bcb7a4ef91e6f5
+SHA256: 26dd8ae83c85bfe9a830ee48f078d145f78f7049a14dd2ac835c3867e11b3a77
+SHA512: 6bd1dbfa584f791ce76471204d730ee8120990ba9277b42634c9d57d45116412f7588ea4e03a8849af11f6c8544a871ad0765f3e39e6e08a008828884cb4ba40
+Homepage: https://www.gxde.top/
+Description: deepin desktop-environment - dock plugin
+ Deepin desktop environment - dock plugin for onboard
+

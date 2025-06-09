@@ -1,0 +1,23 @@
+Package: startgxde
+Architecture: loong64
+Version: 4.0.0
+Priority: extra
+Section: admin
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 9445
+Provides: startdde, x-session-manager
+Depends: libasound2t64 (>= 1.0.16), libc6 (>= 2.40), libglib2.0-0t64 (>= 2.50.0), libgnome-keyring0 (>= 2.20.3), libgtk-3-0t64 (>= 3.0.0), libpulse0 (>= 0.99.1), libx11-6, libxcursor1 (>> 1.1.2), libxfixes3, libxi6 (>= 2:1.2.99.4), deepin-daemon (>> 3.24.1+), gnome-keyring, libpam-gnome-keyring, gvfs-common, dde-kwin | deepin-wm | deepin-metacity | gxde-kwin, gxde-desktop-schemas (>= 3.2.4), gxde-api, lightdm, xdg-desktop-portal-gxde
+Recommends: gxde-qt5integration
+Conflicts: deepin-session, deepin-wm-switcher, startdde
+Breaks: startdde (<= 2.91.1)
+Replaces: startdde
+Filename: ./s/startgxde/startgxde_4.0.0_loong64.deb
+Size: 2129756
+MD5sum: 991df3fe64111649e26ddae903b31426
+SHA1: fd5ab0f4bbe1de46fdc05a1a0b62fc8361115e08
+SHA256: 643b2aaced0486216d88a9efeffcf7d4e0c39af428d17c0ef4bb7895d9b69025
+SHA512: 955b8bdb11b759929e9e9dc36e2a72ac33ae4be43797698386aaa53f541f6c58fb5be1705bb6c0fde08c778f0a2d308c39c4cc76e747598fc366cbca113b5e51
+Homepage: http://github.com/GXDE-OS/startgxde
+Description: start deepin desktop environment
+ starter of deepin desktop environment.
+

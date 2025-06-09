@@ -1,0 +1,23 @@
+Package: gxde-desktop-panel
+Architecture: loong64
+Version: 5.0.1
+Priority: optional
+Section: libdevel
+Source: gxde-file-manager
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 5001
+Provides: dde-desktop
+Depends: libc6 (>= 2.40), libdframeworkdbus2 (>= 6.1.0~gxde1), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 2:2.3.2), libgcc-s1 (>= 3.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libgxde-file-manager (= 5.0.1), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5network5t64 (>= 5.0.2), libqt5widgets5t64 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 14), libxcb-ewmh2 (>= 0.4.1), libxcb-shape0, qtbase-abi-5-15-13, gxde-daemon, gxde-requ
+Recommends: deepin-screensaver, fantascene-dynamic-wallpaper
+Conflicts: dde-desktop, dde-workspace (<< 2.90.5)
+Replaces: dde-desktop
+Filename: ./g/gxde-desktop-panel/gxde-desktop-panel_5.0.1_loong64.deb
+Size: 1906928
+MD5sum: 397119ac6aaf4a4158f3ff29690ffca8
+SHA1: b072d2a2089946b402d50632975242c35a946c49
+SHA256: b863ead2e361958ba67a79885f1701469d1c989b1e201641e9c409857f365c42
+SHA512: cd8837f014b11bff3d6ac7c3e42d23a90f6f3589740a2ca326658b029efebc5bd67624e28072d0aec431c09677ea81beea79a154a8f55a43f78f3d8a3ca60629
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - desktop module
+ Deepin Desktop Environment (DDE) - desktop module.
+

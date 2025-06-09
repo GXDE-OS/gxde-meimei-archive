@@ -1,0 +1,24 @@
+Package: grub2-common
+Architecture: loong64
+Version: 2.12-7deepin4
+Multi-Arch: foreign
+Priority: optional
+Section: admin
+Source: grub2
+Maintainer: GRUB Maintainers <pkg-grub-devel@alioth-lists.debian.net>
+Installed-Size: 1797
+Depends: grub-common (= 2.12-7deepin4), dpkg (>= 1.15.4), libc6 (>= 2.40), libdevmapper1.02.1 (>= 2:1.02.36), libefiboot1t64 (>= 38), libefivar1t64 (>= 38), liblzma5 (>= 5.1.1alpha+20120614)
+Breaks: grub (<< 0.97-54), grub-cloud-amd64 (<< 0.0.4), grub-coreboot (<< 2.02+dfsg1-7), grub-doc (<< 0.97-32), grub-efi-amd64 (<< 2.02+dfsg1-7), grub-efi-arm (<< 2.02+dfsg1-7), grub-efi-arm64 (<< 2.02+dfsg1-7), grub-efi-ia32 (<< 2.02+dfsg1-7), grub-efi-ia64 (<< 2.02+dfsg1-7), grub-ieee1275 (<< 2.02+dfsg1-7), grub-legacy (<< 0.97-83~), grub-legacy-doc (<< 0.97-59), grub-pc (<< 2.02+dfsg1-7), grub-uboot (<< 2.02+dfsg1-7), grub-xen (<< 2.02+dfsg1-7), grub-yeeloong (<< 2.02+dfsg1-7), shim (<< 0.9+1474479173.6c180c6-0ubuntu1~)
+Replaces: grub, grub-cloud-amd64 (<< 0.0.4), grub-common (<< 1.99-1), grub-coreboot (<< 2.02+dfsg1-7), grub-doc (<< 0.97-32), grub-efi-amd64 (<< 2.02+dfsg1-7), grub-efi-arm (<< 2.02+dfsg1-7), grub-efi-arm64 (<< 2.02+dfsg1-7), grub-efi-ia32 (<< 2.02+dfsg1-7), grub-efi-ia64 (<< 2.02+dfsg1-7), grub-ieee1275 (<< 2.02+dfsg1-7), grub-legacy, grub-legacy-doc (<< 0.97-59), grub-pc (<< 2.02+dfsg1-7), grub-uboot (<< 2.02+dfsg1-7), grub-xen (<< 2.02+dfsg1-7), grub-yeeloong (<< 2.02+dfsg1-7)
+Filename: ./g/grub2-common/grub2-common_2.12-7deepin4_loong64.deb
+Size: 956124
+MD5sum: 8f06ef7f90515414afecdb7caec57f46
+SHA1: 22f7fef62cdef32b58ff667ac80b87babb72b3c9
+SHA256: 3554290a05dc2b119fae9811feb21c47e0f9f176f0f2f80a4f70d17a6d7dca80
+SHA512: c24e45498eab8759487a29b034fbab6f122edb5916cf470d27229606e5c1350961843a6b8b0be42a10f54a11b211ea11bad8b4eb2ea84cd9c3842deaa8704046
+Homepage: https://www.gnu.org/software/grub/
+Description: GRand Unified Bootloader (common files for version 2)
+ This package contains common files shared by the distinct flavours of GRUB.
+ The files in this package are specific to GRUB 2, and would break GRUB
+ Legacy if installed on the same system.
+

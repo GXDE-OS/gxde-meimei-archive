@@ -1,0 +1,23 @@
+Package: gxde-desktop-schemas
+Architecture: loong64
+Version: 4.0.0
+Priority: optional
+Section: misc
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 301
+Provides: deepin-desktop-schemas
+Depends: dconf-gsettings-backend | gsettings-backend
+Conflicts: deepin-default-gsettings, deepin-desktop-schemas
+Breaks: dde-daemon (<< 2.92.2), deepin-default-gsettings, deepin-wm (<< 0.2.1), startdde (<< 2.91.0)
+Replaces: deepin-default-gsettings, deepin-desktop-schemas
+Filename: ./g/gxde-desktop-schemas/gxde-desktop-schemas_4.0.0_loong64.deb
+Size: 38792
+MD5sum: 79effdccc35feeba5b77997563ba2dc2
+SHA1: c1821c3dbf92824851ed6b43eb35938f2accda67
+SHA256: efb02180a2e4f0ee7b46cfd6720d5b646d1c7c3c2e279f61713b8e34baadd25c
+SHA512: a9c027d728f20bf372b97680336b6b0649840b58fc5ad0cd096aaaea6a3867168b3c26edfb2a8a27c157253af2176bbf1ef79c5fe84dc7baad88ed111bc20311
+Homepage: http://www.gxde.top/
+Description: GSettings deepin desktop-wide schemas
+ gxde-desktop-schemas contains a collection of GSettings schemas for
+ settings shared by various components of a desktop.
+

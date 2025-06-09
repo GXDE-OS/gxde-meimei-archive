@@ -1,0 +1,19 @@
+Package: gxde-dock-onboard-plugin-dbgsym
+Architecture: loong64
+Version: 5.0.1
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: gxde-dock
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 852
+Depends: gxde-dock-onboard-plugin (= 5.0.1)
+Filename: ./g/gxde-dock-onboard-plugin-dbgsym/gxde-dock-onboard-plugin-dbgsym_5.0.1_loong64.deb
+Size: 842568
+MD5sum: 05ac6eb125c8d8dc7dd7e06616a330db
+SHA1: 335139c8b66274254794efbe87174727cd3d81fe
+SHA256: 5f849aa1a36cf590e7687fe0f6a9ff507a3b6f3e4aa0614883b1d8e0f342c907
+SHA512: 67f328dbcdf70281ce1525b4e32d144a8cc1dbef4c21b0f76b9d0dbc983432338238479d4b120ad3fecb1bea7fba52950cd54c5f7f31a71adae63b026a7db67c
+Description: debug symbols for gxde-dock-onboard-plugin
+Build-Ids: d38af836ccee43f997468c7a0d3c5fff0f792ed4
+

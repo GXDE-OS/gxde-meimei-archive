@@ -1,0 +1,23 @@
+Package: gxde-polkit-agent
+Architecture: loong64
+Version: 1.0.0
+Priority: optional
+Section: devel
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 254
+Provides: dde-polkit-agent
+Depends: libc6 (>= 2.40), libdframeworkdbus2 (>= 6.1.0~gxde1), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 2:2.3.2), libgcc-s1 (>= 3.0), libpolkit-qt5-1-1 (>= 0.112.0), libqt5core5t64 (>= 5.7.0), libqt5dbus5t64 (>= 5.0.2), libqt5gui5t64 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5widgets5t64 (>= 5.2.0~alpha1), libstdc++6 (>= 14), dpa-ext-gnomekeyring
+Conflicts: dde-polkit-agent
+Replaces: dde-polkit-agent
+Filename: ./g/gxde-polkit-agent/gxde-polkit-agent_1.0.0_loong64.deb
+Size: 54776
+MD5sum: 368353412eb8f2b97691420f8c7e5c19
+SHA1: 824285d83cf71150d5ef46b14968f9e2bdedc4e5
+SHA256: ffe0b66ae8bf8603741576af6859244045ad5984872cba8173214865be139545
+SHA512: 792e6156d5bd7ce553d007bae8bd98f3154cbb31ae94b8e901672e3f4f7a7bd3d820f666c837ed8beeedae6e2894462c735c42b7df50e580b5408676c3be4e1f
+Homepage: http://www.deepin.org/
+Description: PolicyKit agent for DDE.
+ PolicyKit agent is usually a dialog used to provide a way to let users
+ grant permission to specific actions, this package serves the role in
+ Deepin Desktop Environment.
+

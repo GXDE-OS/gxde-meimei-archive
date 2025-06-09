@@ -1,0 +1,19 @@
+Package: deepin-anything-server
+Architecture: loong64
+Version: 6.1.10
+Priority: optional
+Section: admin
+Source: deepin-anything
+Maintainer: Deepin Package Builder <packages@deepin.com>
+Installed-Size: 438
+Depends: deepin-anything-libs, libc6 (>= 2.40), libgcc-s1 (>= 3.0), libmount1 (>= 2.24.2), libnl-3-200 (>= 3.2.7), libnl-genl-3-200 (>= 3.2.7), libpolkit-qt5-1-1 (>= 0.112.0), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libstdc++6 (>= 14), libudisks2-qt5-0 (>= 5.0.6), deepin-anything-dkms, libpcre3
+Filename: ./d/deepin-anything-server/deepin-anything-server_6.1.10_loong64.deb
+Size: 108620
+MD5sum: 7c4d600f544c573f68fcddc26b5031b8
+SHA1: 8ad3c9c19b5a790177a59bb28f514455fa18dfa8
+SHA256: 55aae598f372b8616765ff22e7af8a0734ee52b5fbc635090f9c1a3df62d972e
+SHA512: 88acd1e1f0af61c12bebf295ff027d5903c93b5b090126ff145bc21ef3c887423a89be0b9839a463eb02daf63b2f0d9b6b19728263847d6a0278a33877bbfabc
+Homepage: http://github.com/linuxdeepin/deepin-anything
+Description: anything server application and lib
+ anything server package
+

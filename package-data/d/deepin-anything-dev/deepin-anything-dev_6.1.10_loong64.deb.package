@@ -1,0 +1,19 @@
+Package: deepin-anything-dev
+Architecture: loong64
+Version: 6.1.10
+Priority: optional
+Section: admin
+Source: deepin-anything
+Maintainer: Deepin Package Builder <packages@deepin.com>
+Installed-Size: 32
+Depends: deepin-anything-libs (= 6.1.10)
+Filename: ./d/deepin-anything-dev/deepin-anything-dev_6.1.10_loong64.deb
+Size: 5936
+MD5sum: 0d39a16c0ba7b38c7438e905da3a001a
+SHA1: 4b5f89ae1a369979568a8d72b25c57d12f48546b
+SHA256: c6122009168dc8226636243fa8bae3546eaa12a30458ad69f2df83b405d262df
+SHA512: 844ba012110b3d68c3304c2ec7dbf27745608005110f562081471b473bf0bf77e7fc696328d7d47897121eaa1db67c0ded787df8dbfa8ebbfe5dd88e5b8a2ae3
+Homepage: http://github.com/linuxdeepin/deepin-anything
+Description: anything user interface library
+ anything library developer package.
+

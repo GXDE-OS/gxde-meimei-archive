@@ -1,0 +1,19 @@
+Package: gxde-dock-dbgsym
+Architecture: loong64
+Version: 5.0.1
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: gxde-dock
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 26976
+Depends: gxde-dock (= 5.0.1)
+Filename: ./g/gxde-dock-dbgsym/gxde-dock-dbgsym_5.0.1_loong64.deb
+Size: 26961744
+MD5sum: b10d04824ec56683811bfbb0c54f0395
+SHA1: ca260f88ba548db0c1fd25f08c59caebd428e36e
+SHA256: ba9190bde1ef25cffd91380b50a63d1e1443f364495a9c7d212d54219c577963
+SHA512: ac8396e4b756474ab3ed69137e303be08c63efbad9668281e7912cfd5a103c3b97b1d018bb452ae316ac4e0d0409e9903f2c103a9f4a06c10a6331d64181040d
+Description: debug symbols for gxde-dock
+Build-Ids: 0c66390bf80461e397cd2c07e79022ea97db98ed 111586f1e840d3a2e8f950befb6735ce817274c9 17aacb2d16e404fb01deb2a63de2602bd5f06134 1d31a31c2290de37b1eee92f4fc5330c07d40c4e 4685a4b3f18d785200ed3639b79e54b239b031f8 4acfcdc77d512349ecca836639321af3323babbd 62240fc8f74d1bf81cb40219856ca7e267a45539 7d3740736770c83f9f1630b173279b893053eeb6 845161cfcfb56f255ff9c5d56bce3fa8e802a2f4 f2b523217fc3ad59990778413882a768e547d844 f5480a359d9f7624362579096bc39daa00a18a88 f61103be010295cf2a2af649f29b2f8d3f90f66c
+

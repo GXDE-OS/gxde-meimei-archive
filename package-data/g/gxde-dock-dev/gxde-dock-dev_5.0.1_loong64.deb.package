@@ -1,0 +1,21 @@
+Package: gxde-dock-dev
+Architecture: loong64
+Version: 5.0.1
+Priority: optional
+Section: x11
+Source: gxde-dock
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 32
+Provides: dde-dock-dev
+Conflicts: dde-dock-dev
+Replaces: dde-dock-dev
+Filename: ./g/gxde-dock-dev/gxde-dock-dev_5.0.1_loong64.deb
+Size: 5860
+MD5sum: d92f1f930e1f2afe2738e78bea4a9248
+SHA1: b5b65c994d685d97dcc7f782acaa7e5a2873c9ae
+SHA256: 773ebeb019ee999dbedb179fa9f0b802b66439e30256c725a1509cb0ec7ef814
+SHA512: 9fd1515ed821e559fd142c42a3a8c8568303f557e5ee27612cdf273647033cdfec1d2eb217e1f7f6b927d2142fea752413428589ff5a96c3f0779fac8f057918
+Homepage: https://www.gxde.top/
+Description: deepin desktop-environment - dock module development files
+ Deepin desktop environment - dock module development files.
+

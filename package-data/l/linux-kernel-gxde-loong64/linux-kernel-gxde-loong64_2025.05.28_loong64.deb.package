@@ -1,0 +1,18 @@
+Package: linux-kernel-gxde-loong64
+Architecture: loong64
+Version: 2025.05.28
+Priority: optional
+Section: utils
+Source: linux-kernel-gxde
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 9
+Depends: linux-image-loong64, linux-headers-loong64
+Filename: ./l/linux-kernel-gxde-loong64/linux-kernel-gxde-loong64_2025.05.28_loong64.deb
+Size: 2412
+MD5sum: 197f31fcba4f6f941b31c434f4720670
+SHA1: b548ce6c0039ff56036a20b1d8a3a1859bd9f24c
+SHA256: 58ae54ef40fdb949d45ae79dc9ef5f3ae9a50a8eb1890209adcf0550b153f8de
+SHA512: 413c6caf20462d9431eda5c9f8ceec36d006f8bf41a7b6d4788b68260a017123885dfb34bf4b316cf2b8674df171236e6f8476ef2d49fc88d9c3662ecfbf427d
+Homepage: https://gitee.com/GXDE-OS/linux-kernel-gxde
+Description: GXDE Kernel For loong64
+

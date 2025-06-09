@@ -1,0 +1,23 @@
+Package: libgxde-file-manager-dev
+Architecture: loong64
+Version: 5.0.1
+Priority: optional
+Section: libdevel
+Source: gxde-file-manager
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 262
+Provides: libdde-file-manager-dev
+Depends: libgxde-file-manager (= 5.0.1)
+Conflicts: libdde-file-manager-dev
+Replaces: libdde-file-manager-dev
+Filename: ./l/libgxde-file-manager-dev/libgxde-file-manager-dev_5.0.1_loong64.deb
+Size: 35324
+MD5sum: 7db64f8729a989a4f528c96b7ee2c894
+SHA1: 974a9970432566bc99675e76385ee8734a1159a6
+SHA256: 5fbe01e82075d0e3d76d217291fba6efbb382ef4267bd0981fd60d94238e4a19
+SHA512: e4f70cf52b909e7699a51b6d7149078463168479172d1570f1e37cac42b7d9191e475c722917fd6cf077091c89c09396ae230a8d45e25a7171e9e8582292b601
+Homepage: http://www.deepin.org
+Description: DDE File Manager Devel library
+ This package contains the header files and static libraries
+ of libgxde-file-manager
+

@@ -1,0 +1,22 @@
+Package: gxde-disk-mount-plugin
+Architecture: loong64
+Version: 5.0.0
+Priority: optional
+Section: libdevel
+Source: gxde-file-manager
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 438
+Provides: dde-disk-mount-plugin
+Depends: libc6 (>= 2.40), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 2:2.3.2), libgcc-s1 (>= 3.0), libglib2.0-0t64 (>= 2.34.0), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.0.2), libqt5gui5t64 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5widgets5t64 (>= 5.2.0~alpha1), libstdc++6 (>= 14), libudisks2-qt5-0 (>= 5.0.6), libgxde-file-manager (= 5.0.0)
+Conflicts: dde-disk-mount-plugin
+Replaces: dde-disk-mount-plugin
+Filename: ./g/gxde-disk-mount-plugin/gxde-disk-mount-plugin_5.0.0_loong64.deb
+Size: 108976
+MD5sum: 3d56c15cee8459d4f30427561ebd2cee
+SHA1: 96e87a69577f830df3a87b1cf4ebf6c73eaa5aa6
+SHA256: be08b307c63c892a2728619a4d4eef10fd061095334f9cf2b7c046aca09c7a76
+SHA512: f9fba0ab576f844ce9c40422a00c70c2a58bdb9db277c634165b13865455ac4884d7cf923707da52e5c12fe3909c794fa75abea4de42164efa1c17a9b37d501d
+Homepage: http://www.deepin.org
+Description: plugin of gxde-dock
+ Disk mount plugin of gxde-dock which is created by libgxde-file-manager
+

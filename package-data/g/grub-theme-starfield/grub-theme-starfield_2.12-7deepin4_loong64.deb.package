@@ -1,0 +1,20 @@
+Package: grub-theme-starfield
+Architecture: loong64
+Version: 2.12-7deepin4
+Multi-Arch: foreign
+Priority: optional
+Section: admin
+Source: grub2
+Maintainer: GRUB Maintainers <pkg-grub-devel@alioth-lists.debian.net>
+Installed-Size: 3106
+Depends: grub-common (= 2.12-7deepin4)
+Filename: ./g/grub-theme-starfield/grub-theme-starfield_2.12-7deepin4_loong64.deb
+Size: 2467804
+MD5sum: 72131a7a9c50757b946382ccad90b628
+SHA1: 0e4c97da413526e6823530ca46e02a3a9c7b719b
+SHA256: 320c4cd854d6ddfadf3ef81b81ab6f913304bc60d95f6b5d4560c6f5a4f321ab
+SHA512: 3260dd8640a333901088474fe1ce57305bfa9a210f7ffc9a1d08a64f84b031c645195b45ea31ac5a39c8075f14154f3130749775cb802749c6a33ca01d81fd6c
+Homepage: https://www.gnu.org/software/grub/
+Description: GRand Unified Bootloader, version 2 (starfield theme)
+ This is the default theme for GRUB's graphical menu.
+

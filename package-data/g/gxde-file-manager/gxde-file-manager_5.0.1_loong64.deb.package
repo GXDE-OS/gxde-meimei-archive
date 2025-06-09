@@ -1,0 +1,22 @@
+Package: gxde-file-manager
+Architecture: loong64
+Version: 5.0.1
+Priority: optional
+Section: libdevel
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 1286
+Provides: dde-file-manager
+Depends: libc6 (>= 2.40), libdtkcore5 (>= 5.6), libdtklog (>= 0.0), libdtkwidget2 (>= 2:2.3.2), libgcc-s1 (>= 3.0), libgxde-file-manager (= 5.0.1), libjemalloc2 (>= 5.0.0), libpolkit-qt5-1-1 (>= 0.112.0), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.0.2), libqt5gui5t64 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5network5t64 (>= 5.0.2), libqt5widgets5t64 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 14), libx11-6, socat, libdtkcore2, libdisomaster, libisoburn1, gxde-compressor
+Recommends: dde-qt5integration, avfs
+Conflicts: dde-file-manager
+Replaces: dde-file-manager
+Filename: ./g/gxde-file-manager/gxde-file-manager_5.0.1_loong64.deb
+Size: 296280
+MD5sum: c9be773dce46ed497750f585169f92b2
+SHA1: ca54b42bb781046d73df6c835b9fdd73bd89a328
+SHA256: 3f468c6e4faa5d3a745cc44be95899025d6ddddf4a16d09b8de432106fbc5af6
+SHA512: bece1654416587caae7dca75c14241a62d79414c142fdb050c41e8d3b0ddfef819d6b1e3a3dea7d8333e67bd3a485b1bd526662610aa1a5dd0cb0b03d8dc88a4
+Homepage: http://www.deepin.org
+Description: File manager front end
+ File manager front-end of Deepin OS
+

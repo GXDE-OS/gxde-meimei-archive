@@ -1,0 +1,21 @@
+Package: gxde-community-wallpapers
+Architecture: all
+Version: 1.7.35
+Priority: optional
+Section: utils
+Source: gxde-wallpapers
+Maintainer: gfdgd xi <3025613752@qq.com
+Installed-Size: 53087
+Conflicts: debian-dde-wallpapers, deepin-wallpapers, deepin-wallpapers-nonfree
+Breaks: gxde-wallpapers (<< 1.7.5)
+Replaces: debian-dde-wallpapers, deepin-wallpapers, deepin-wallpapers-nonfree
+Filename: ./g/gxde-community-wallpapers/gxde-community-wallpapers_1.7.35_all.deb
+Size: 53496276
+MD5sum: 567fcf3f2787fe106be286726a9dd8dd
+SHA1: c983e5279bce0dff39f911e3a3e5cac4f749f19c
+SHA256: bc88b912fa62fcd25720644f4ab7a1935208b58c07ec338b43370298ea6eb264
+SHA512: 06d027c5db7a932a5139bb76c0fe7b2c2704ef90f1d783a783b6ba3dcff51806b188115299f57a3b6f73caaa857a98ff952d33d3c29bc638a73e9b7e7150b174
+Homepage: https://www.deepin.org/
+Description: community wallpapers
+ Community wallpapers for gxde
+

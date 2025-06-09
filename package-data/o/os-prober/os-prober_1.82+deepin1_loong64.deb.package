@@ -1,0 +1,18 @@
+Package: os-prober
+Architecture: loong64
+Version: 1.82+deepin1
+Priority: optional
+Section: utils
+Maintainer: Debian Install System Team <debian-boot@lists.debian.org>
+Installed-Size: 78
+Depends: libc6 (>= 2.40), grub-common, mount
+Filename: ./o/os-prober/os-prober_1.82+deepin1_loong64.deb
+Size: 14400
+MD5sum: 5395c52b2a9f273444b41426f5eb9c29
+SHA1: 71c762150d900ee5786bee2c9e3754ae1eea0449
+SHA256: 08385a239c13c72557fa5a9ca3d02518ca2c535a2fa43b01494ee088b8f7f2cd
+SHA512: 190f92acf7936388082d51346fcf6c008c4e9c612f1763684ccd30e134a8a60701a415a1e736838259f00a050250e74cbef1626238e31552594159622f695054
+Description: utility to detect other OSes on a set of drives
+ This package detects other OSes available on a system and outputs the
+ results in a generic machine-readable format.
+

@@ -1,0 +1,26 @@
+Package: deepin-daemon
+Architecture: loong64
+Version: 4.0.0
+Priority: extra
+Section: devel
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 68870
+Provides: dde-daemon, lastore-daemon-migration
+Depends: libasound2t64 (>= 1.0.16), libc6 (>= 2.40), libcrypt1 (>= 1:4.1.0), libfontconfig1 (>= 2.12.6), libgdk-pixbuf-2.0-0 (>= 2.25.2), libgdk-pixbuf-xlib-2.0-0 (>= 2.22.0), libglib2.0-0t64 (>= 2.50.0), libgtk-3-0t64 (>= 3.0.0), libgudev-1.0-0 (>= 212), libinput10 (>= 0.21.0), libnl-3-200 (>= 3.2.7), libnl-genl-3-200 (>= 3.2.7), libpam0g (>= 0.99.7.1), libpulse0 (>= 0.99.1), librsvg2-2 (>= 2.14.4), libudev1 (>= 183), libx11-6 (>= 2:1.2.99.901), libxcursor1 (>> 1.1.2), libxfixes3, libxi6 (>= 2:1.2.99.4), upower, network-manager, iso-codes, gvfs-common, gnome-keyring, gxde-desktop-base, gxde-sound-theme, user-setup, deepin-wm | deepin-metacity | dde-kwin, gxde-desktop-schemas (>> 3.13.7+), mobile-broadband-provider-info, bamfdaemon, dde-polkit-agent, xdotool, libfprint0, dnsmasq-base, cgroup-tools, imwheel, procps, lastore-daemon, gxde-installer-timezones, gxde-api (>> 3.17.1+), libpam-runtime (>= 1.1.3-2~), hwinfo, dde-clipboard
+Recommends: proxychains4, flatpak, laptop-mode-tools, iio-sensor-proxy, dde-grand-search, orca
+Suggests: bluez (>= 5.4), network-manager-pptp, network-manager-l2tp, network-manager-openconnect, network-manager-openvpn, network-manager-vpnc, network-manager-sstp, xserver-xorg-input-wacom, xserver-xorg-input-synaptics, miraclecast
+Conflicts: dde-daemon, dde-workspace, lastore-daemon-migration
+Breaks: dde-daemon (<< 2.92.2), dde-workspace, lastore-daemon (<< 0.9.64)
+Replaces: dde-daemon, lastore-daemon (<< 0.9.64)
+Filename: ./d/deepin-daemon/deepin-daemon_4.0.0_loong64.deb
+Size: 12014348
+MD5sum: 7e1d62203e983bb3b7797b8cb0b90451
+SHA1: 1b16d66078a9cba7a47f8c1e1e0957bdedb2fa34
+SHA256: 2908964eeb6bc24d6ccf4036fef0e189d0d034e931b60d122ba20812a6bf9c30
+SHA512: 560513e9ccb31f4a4d67efda188699423d0bf11ec885deb15d1188f735fcb4395a0d1f00b9e11107a9b77856bfa07d33b8b850b007ddebfc4db13196e0aabd5b
+Homepage: http://www.deepin.org
+Description: daemon handling the DDE session settings
+ This package contains the daemon which is responsible for setting the
+ various parameters of a DDE session and the applications that run
+ under it.
+

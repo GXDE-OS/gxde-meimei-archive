@@ -1,0 +1,22 @@
+Package: gxde-api-dev
+Architecture: all
+Version: 4.0.0
+Priority: extra
+Section: devel
+Source: gxde-api
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 927
+Provides: dde-api-dev
+Depends: golang-dlib-dev (>= 1.2.13), golang-gir-gobject-2.0-dev (>> 1.2.0+), golang-gir-gio-2.0-dev (>> 1.2.0+), golang-gir-glib-2.0-dev (>> 1.2.0+), golang-gir-gudev-1.0-dev (>> 1.2.0+), golang-github-linuxdeepin-go-x11-client-dev (>= 0.0.4), golang-github-linuxdeepin-go-dbus-factory-dev (>> 0.7.0+), golang-gopkg-alecthomas-kingpin.v2-dev, libxi-dev, libcanberra-dev, librsvg2-dev, libgtk-3-dev, libgdk-pixbuf2.0-dev | libgdk-pixbuf-2.0-dev, libcairo2-dev, libfreetype6-dev, libpoppler-glib-dev
+Conflicts: dde-api-dev
+Replaces: dde-api-dev
+Filename: ./g/gxde-api-dev/gxde-api-dev_4.0.0_all.deb
+Size: 70180
+MD5sum: 3ee2a2e159bf1492096950ba25e502f6
+SHA1: adfa65dca7c5c83a40fe9b02b02afb709189c9fe
+SHA256: d0d9a26b88948b1c379390068942a2716a25956cdb4cdca1ec860f1a042a5a9e
+SHA512: 0979adb74346b4fe8ad6d20e3d9a247d38cb5468d68abe75aef10930fea6585e37d51b5222790b4c8ccd3e3a4c119bd67043212d46d4adab79674205088ddfe7
+Homepage: http://www.deepin.org
+Description: Go-lang bingdings for dde-daemon
+ Go-lang bindings for dde-daemon -- dev file
+

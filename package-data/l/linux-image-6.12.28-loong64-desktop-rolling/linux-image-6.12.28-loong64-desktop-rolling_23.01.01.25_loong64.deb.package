@@ -1,0 +1,19 @@
+Package: linux-image-6.12.28-loong64-desktop-rolling
+Architecture: loong64
+Version: 23.01.01.25
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: deepin <deepin@deepin-loongarch-ci>
+Installed-Size: 551546
+Filename: ./l/linux-image-6.12.28-loong64-desktop-rolling/linux-image-6.12.28-loong64-desktop-rolling_23.01.01.25_loong64.deb
+Size: 94876608
+MD5sum: 41ec177dc0bcb20f821d2c26c2906a5c
+SHA1: c8be05e931203620edcb370d125df5ae9bea7e49
+SHA256: 1c5b0e14425b708bcf17efb8cb85f8e85388adb9ce2f200905a6ec0de09c605c
+SHA512: 7b8b92580d4c3812e81af8fc2e92252b7cea3165695fcdf73245ebb96d0970fb43ab9448e4d249ff449de2e0a4440014e9e8f8a49f5d0e1218aeb80907f573ed
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.12.28-loong64-desktop-rolling
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.12.28-loong64-desktop-rolling.
+

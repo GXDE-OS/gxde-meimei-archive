@@ -1,0 +1,20 @@
+Package: linux-headers-6.12.28-loong64-desktop-rolling
+Architecture: loong64
+Version: 23.01.01.25
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: deepin <deepin@deepin-loongarch-ci>
+Installed-Size: 50966
+Filename: ./l/linux-headers-6.12.28-loong64-desktop-rolling/linux-headers-6.12.28-loong64-desktop-rolling_23.01.01.25_loong64.deb
+Size: 8616388
+MD5sum: 6e3c0a592f24e29c5f8614c8ea67f7d0
+SHA1: 2bec1c1470f686087d2014ab9b935830d27289ea
+SHA256: a3ecd2c5a77a528a379ddd60b3b99c23c1d60580b5854d3049b237e900d60b71
+SHA512: 4a95de35bd61527c27cbaeaba7bb9b5d8258b880af44fab6b7f5d3990006c8d420701bd8986415227e70bfa060505a7d544ec746a2ab67410b605b368045110b
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.12.28-loong64-desktop-rolling on loong64
+ This package provides kernel header files for 6.12.28-loong64-desktop-rolling on loong64
+ .
+ This is useful for people who need to build external modules
+

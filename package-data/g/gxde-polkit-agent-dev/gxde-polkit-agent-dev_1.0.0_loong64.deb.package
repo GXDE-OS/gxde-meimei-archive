@@ -1,0 +1,21 @@
+Package: gxde-polkit-agent-dev
+Architecture: loong64
+Version: 1.0.0
+Priority: optional
+Section: devel
+Source: gxde-polkit-agent
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 13
+Provides: dde-polkit-agent-dev
+Conflicts: dde-polkit-agent-dev
+Replaces: dde-polkit-agent-dev
+Filename: ./g/gxde-polkit-agent-dev/gxde-polkit-agent-dev_1.0.0_loong64.deb
+Size: 2716
+MD5sum: 5556fc3080b51029f7a8d8664de63849
+SHA1: 6c7a99cd9ea5d4a27be3c94e6aa7711e2f634d63
+SHA256: 905f1acd6850fffa250ccfc1f6b1eb0c5ed53a2585d0e2249a32d2ac2aa7c7b9
+SHA512: 73545f387d13898009cb70c522ac89a157d101a2d8b66589f12b24586ef644e960c48d6a288294049b903aaa715afa3665bc673ee124a9bde5a0982203368d95
+Homepage: http://www.deepin.org/
+Description: developement files of gxde-polkit-agent extensions.
+ Development files of gxde-polkit-agent extensions.
+

@@ -1,0 +1,23 @@
+Package: gxde-desktop
+Architecture: all
+Version: 2025.06.07-2
+Priority: extra
+Section: metapackages
+Source: gxde
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 8
+Depends: gxde-desktop-base, gxde-desktop-panel, gxde-dock, gxde-control-center, gxde-launcher, startdde, gxde-session-ui, gxde-artwork, gxde-file-manager, dde-qt5integration, eject, gxde-wallpapers, fonts-noto, dde-kwin | gxde-kwin, deepin-screensaver, gxde-default-settings, gxde-shell-tools, gxde-compressor, gxde-introduction
+Recommends: gxde-desktop-extra | gxde-desktop-android, gxde-editor, pppoe, gvfs-fuse, smbclient, python-smbc, cups-filters, printer-driver-all, foomatic-db-compressed-ppds, foomatic-db-engine, openprinting-ppds, libsane-hpaio, linux-firmware, wireless-tools, ttf-deepin-opensymbol, gxde-terminal, printer-driver-hpcups, printer-driver-hpijs, libmtp-runtime, samsung-print, open-vm-tools-desktop, open-vm-tools, usbmuxd, ipheth-utils, libimobiledevice-dev, libimobiledevice-utils, dnsutils, libfile-mimeinfo-perl, deepin-shortcut-viewer, crda, network-manager-integration-plugins, libtxc-dxtn-s2tc0 | libtxc-dxtn-s2tc, libflashplugin-pepper, miraclecast, x-display-manager, gxde-image-viewer, gxde-calendar, gxde-calculator, gxde-voice-recorder, deepin-screen-recorder, warm-sched, deepin-camera, gxde-top-panel, fcitx5-material-color, tela-grub2-themes, plymouth-theme-gxde-logo, fcitx5, fcitx5-table, fantascene-dynamic-wallpaper, x11vnc
+Conflicts: deepin-desktop-environment-desktop, deepin-desktop-environment-dock, deepin-desktop-environment-launcher
+Filename: ./g/gxde-desktop/gxde-desktop_2025.06.07-2_all.deb
+Size: 3088
+MD5sum: 4c9ce72773c3a67b4ecccaaa9098114b
+SHA1: f10fcb5fe1110c3ca692988253346a020887da3f
+SHA256: 8816fc2cbc32c9a042c508afa3c16c519132c7034f82f72e9cd533ebf6f56652
+SHA512: 15eaf3ea2b1868618d29e9b22bf49710fbb41c23ef2b2b772a3246dce08dae88ef75275f9a45a2318eb6f5e6b55375684bef26a2bd6a24b84db08d0b637e7506
+Homepage: http://www.gfdgdxi.top
+Description: GXDE New Desktop Environment - Next
+ This is a meta package depends GXDE New Desktop Envrionment.
+ .
+ You can safety remove it after installed.
+

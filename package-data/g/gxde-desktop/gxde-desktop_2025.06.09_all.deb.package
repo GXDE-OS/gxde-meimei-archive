@@ -1,0 +1,23 @@
+Package: gxde-desktop
+Architecture: all
+Version: 2025.06.09
+Priority: extra
+Section: metapackages
+Source: gxde
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 8
+Depends: gxde-desktop-base, gxde-desktop-panel, gxde-dock, gxde-control-center, gxde-launcher, startgxde, gxde-session-ui, gxde-artwork, gxde-file-manager, dde-qt5integration, eject, gxde-wallpapers, fonts-noto, dde-kwin | gxde-kwin, deepin-screensaver, gxde-default-settings, gxde-shell-tools, gxde-compressor, gxde-introduction
+Recommends: gxde-desktop-extra | gxde-desktop-android, gxde-editor, pppoe, gvfs-fuse, smbclient, python-smbc, cups-filters, printer-driver-all, foomatic-db-compressed-ppds, foomatic-db-engine, openprinting-ppds, libsane-hpaio, linux-firmware, wireless-tools, ttf-deepin-opensymbol, gxde-terminal, printer-driver-hpcups, printer-driver-hpijs, libmtp-runtime, samsung-print, open-vm-tools-desktop, open-vm-tools, usbmuxd, ipheth-utils, libimobiledevice-dev, libimobiledevice-utils, dnsutils, libfile-mimeinfo-perl, deepin-shortcut-viewer, crda, network-manager-integration-plugins, libtxc-dxtn-s2tc0 | libtxc-dxtn-s2tc, libflashplugin-pepper, miraclecast, x-display-manager, gxde-image-viewer, gxde-calendar, gxde-voice-recorder, deepin-screen-recorder, warm-sched, deepin-camera, gxde-top-panel, fcitx5-material-color, tela-grub2-themes, plymouth-theme-gxde-logo, fcitx5, fcitx5-table, fantascene-dynamic-wallpaper, x11vnc
+Conflicts: deepin-desktop-environment-desktop, deepin-desktop-environment-dock, deepin-desktop-environment-launcher
+Filename: ./g/gxde-desktop/gxde-desktop_2025.06.09_all.deb
+Size: 3080
+MD5sum: 681402a4f42a86f75b7b55ab74955e49
+SHA1: dadf16aad8815a8a5468eec22b7cf8b269326707
+SHA256: af0a7c7b1005adbc6b209f09ea5329b6b5e6666b67231bf76685b229e18e0d2a
+SHA512: 8c340bb5e21f036698f5ed6eb44a87789c640aba144b978d3a7718288199f080d3dddf730033e4d1fdcbf8ebc4930318d009c0fe818f87f2487efcaf1dcb83a5
+Homepage: http://www.gfdgdxi.top
+Description: GXDE New Desktop Environment - Next
+ This is a meta package depends GXDE New Desktop Envrionment.
+ .
+ You can safety remove it after installed.
+
