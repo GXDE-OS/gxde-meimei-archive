@@ -47,6 +47,7 @@ def Write(path: str):
                 htmlstring += f'\n          <li><a href="{i}"><img src="/icons/text-x-source.svg" width=20px style="width=20px;vertical-align:middle;">  {i}</a></li>'
     htmlstring += f"""     </ul>
         <hr/>
+        <p><a href="https://www.gxde.top"><img style="border-radius: 4px;" src="https://www.gxde.top/repo.gxde.top.jpg"></a></p>
         <h1 id="copyright">©2024~2025 gfdgd xi</h1>
 </body>
     </body>
